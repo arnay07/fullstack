@@ -1,3 +1,3 @@
 # How the connection works
 
-so
+something new to test editor config in vim
